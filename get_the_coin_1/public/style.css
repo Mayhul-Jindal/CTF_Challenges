@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "tatty";
+    src: url(./munro.ttf);
+}
+.text-font{
+    font-family: "tatty";
+    color: antiquewhite;
+    text-decoration:solid;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+}
+
+body{
+    background-color: rgb(98, 153, 255);
+}
+
+.login-form{
+    width: 30%;
+    margin: auto;
+}
+
+.form-input-box{
+    border: 0;
+    background-color:rgb(98, 153, 255);
+}
+.form-input-box:focus{
+    outline: none;
+}
+
+
