@@ -1,0 +1,16 @@
+/* .prince{
+    background-color: blueviolet;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 70px;
+    left: 0px;
+} */
+
+.base{
+    background-color: brown;
+    width: 100%;
+    height: 70px;
+    position: absolute;
+    bottom: 0px;
+}
