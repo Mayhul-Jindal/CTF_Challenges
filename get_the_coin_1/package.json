@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async-redis": "^2.0.0",
     "body-parser": "^1.20.0",
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
   }
 }

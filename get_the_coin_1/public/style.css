@@ -2,29 +2,128 @@
     font-family: "tatty";
     src: url(./munro.ttf);
 }
+@font-face {
+    font-family: "aslitatty";
+    src: url(./SuperMarioWorldTextBoxRegular-Y86j.ttf);
+}
+@font-face {
+    font-family: "titletatty";
+    src: url(./SuperPlumberBrothers-y00V.ttf);
+}
+
 .text-font{
-    font-family: "tatty";
+    font-family: "aslitatty";
     color: antiquewhite;
     text-decoration:solid;
-    word-spacing: 2px;
-    letter-spacing: 2px;
+    font-size: large;
 }
-
+.input-text-font{
+    font-family: "tatty";
+    color: rgb(41, 41, 41);
+    font-weight: bold;
+}
+.title-text-font{
+    font-family: "titletatty";
+    font-size: 100px;
+    color: rgb(243, 203, 150);
+    
+}
 body{
+    margin: 0px;
     background-color: rgb(98, 153, 255);
+    overflow: hidden;
 }
-
+.title{
+    position: absolute;
+    width: fit-content;
+    left: 35%;
+    text-shadow: 5px 10px black;
+}
 .login-form{
     width: 30%;
-    margin: auto;
+    position: absolute;
+    left: 40%;
+    top: 42%;
 }
-
 .form-input-box{
-    border: 0;
+    border: 0px;
+    font-size: large;
     background-color:rgb(98, 153, 255);
+    
 }
 .form-input-box:focus{
     outline: none;
 }
+.cloud{
+    position: absolute;
+    height: 100px;
+}
+.cloud:nth-child(1){
+    top: 20px; 
+    -webkit-animation: wind 80s both infinite linear reverse; 
+            animation: wind 80s both infinite linear reverse;
+}
+.cloud:nth-child(2){
+    top: 180px;
+    -webkit-animation: wind 50s both infinite linear reverse;
+            animation: wind 50s both infinite linear ;
+}
+.cloud:nth-child(3){
+    top: 350px;
+    -webkit-animation: wind 30s both infinite linear reverse;
+            animation: wind 30s both infinite linear reverse;
+}
+.mario{
+    position: absolute;
+    width: 71px;
+    height: 72px;
+    background: url('https://raw.githubusercontent.com/LantareCode/random-this-and-thats/master/CSS/SuperMario-Animation/images/mariowalking/result.png') left center;
+    left:0px;
+    bottom: 80px;
+    animation: play 0.8s steps(4) infinite,
+               run 7s both infinite linear;
+}
+@-webkit-keyframes play{
+    100%{background-position: -284px;}
+}
+@keyframes play{
+    100%{background-position: -284px;}
+}
+@-webkit-keyframes run{
+    from{left: -200px;}
+    to{left: 100%;}
+}
+@keyframes run{
+    from{left: -200px;}
+    to{left: 100%;}
+}
+@-webkit-keyframes wind{
+    from{left: -300px;}
+    to{left: 100%;}
+}
+@keyframes wind{
+    from{left: -300px;}
+    to{left: 100%;}
+}
 
+.bush{
+    position: absolute;
+    bottom: 80px;
+}
+.bush:nth-child(1){
+    left: 150px;   
+}
+.bush:nth-child(2){
+    left: 900px;;   
+}
+.bush:nth-child(3){
+    left: 1500px;;   
+}
 
+.ground{ 
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    bottom: 0px;
+    background-image: url('https://raw.githubusercontent.com/LantareCode/random-this-and-thats/master/CSS/SuperMario-Animation/images/groundblock.png');
+}
