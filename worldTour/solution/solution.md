@@ -10,6 +10,7 @@ Given to user:
 **solution**:
 
 You will get this photo
+
 ![](../dist/travel_QR.png)
 
 1. You can use an online tool like `https://demo6.dynamsoft.com/barcode-reader/`
