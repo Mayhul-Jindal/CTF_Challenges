@@ -1,0 +1,8 @@
+services:
+  goserver:
+    container_name: goserver
+    restart: always
+    build: .
+    ports:
+    - "1234:1234"
+
