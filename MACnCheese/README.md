@@ -11,5 +11,5 @@ Given to user:
 
 **Flag**: `dsc{52:e6:76:c3:f7:4b}`
 
-**Note** (This is a not for ctf team)
+**Note** (This is a note for ctf team)
 - check if the mac-adderess is present on the day of ctf event
