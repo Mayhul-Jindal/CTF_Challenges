@@ -1,2 +1,5 @@
-GOtchu/dist/* linguist-documentation=false
-GOtchu/dist/* linguist-vendored
+GOtchu/dist/Server/* linguist-documentation=false
+GOtchu/dist/Server/* linguist-vendored
+
+GOtchu/dist/Question/* linguist-documentation=false
+GOtchu/dist/Question/* linguist-vendored
