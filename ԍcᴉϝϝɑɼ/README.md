@@ -2,7 +2,7 @@
 
 **Author**: Mayhul
 
-Mike bought a quantumn computer which could easily break many of the public-key cryptosystems currently in use. Recently one of his friends send him an encrypted [message](https://www.math3d.org/ohWAJ7ysD) and public and the private key as following:-
+Mike bought a quantumn computer which could easily break many of the public-key cryptosystems currently in use. Recently one of his friends send him an encrypted [message](https://www.math3d.org/ujb54miYM) and public and the private key as following:-
 
 For text_1
 ```python
