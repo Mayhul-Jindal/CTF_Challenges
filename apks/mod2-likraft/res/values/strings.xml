@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Li Kraft</string>
+    <string name="bundle_local_qt_libs">1</string>
+    <string name="dialogui_alert_msg_format" formatted="false">Please go to Settings-Application &amp; management-Permissions-%s (Turn on %s permission. Bluetooth needs location permission to be scanned!)</string>
+    <string name="dialogui_alert_title_format">Permission %s have been disabled</string>
+    <string name="dialogui_locserver_goto_notify">Please go to Settings-Security &amp; Privacy-Location access (Open Access my location)</string>
+    <string name="dialogui_locserver_not_open">Phone does not turn on location services</string>
+    <string name="fatal_error_msg">Your application encountered a fatal error and cannot continue.</string>
+    <string name="ministro_needed_msg">This application requires Ministro service. Would you like to install it?</string>
+    <string name="ministro_not_found_msg">"Can't find Ministro service.
+The application can't start."</string>
+    <string name="permission_cancel">Cancel</string>
+    <string name="permission_dialogui_get">Get</string>
+    <string name="permission_get_failure">Get permission of location failure</string>
+    <string name="permission_go_settings">Go to Settings</string>
+    <string name="permission_location">Location</string>
+    <string name="static_init_classes">org.qtproject.qt.android.multimedia.QtMultimediaUtils:org.qtproject.qt.android.multimedia.QtAudioDeviceManager</string>
+    <string name="unsupported_android_version">This version of Android is not supported.</string>
+    <string name="use_local_qt_libs">1</string>
+</resources>

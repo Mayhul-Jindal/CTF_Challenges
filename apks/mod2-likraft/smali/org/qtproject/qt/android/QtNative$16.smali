@@ -1,0 +1,65 @@
+.class Lorg/qtproject/qt/android/QtNative$16;
+.super Ljava/lang/Object;
+.source "QtNative.java"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingMethod;
+    value = Lorg/qtproject/qt/android/QtNative;->notifyObjectHide(II)V
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic val$parentId:I
+
+.field final synthetic val$viewId:I
+
+
+# direct methods
+.method constructor <init>(II)V
+    .locals 0
+
+    .line 980
+    iput p1, p0, Lorg/qtproject/qt/android/QtNative$16;->val$viewId:I
+
+    iput p2, p0, Lorg/qtproject/qt/android/QtNative$16;->val$parentId:I
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public run()V
+    .locals 3
+
+    .line 983
+    invoke-static {}, Lorg/qtproject/qt/android/QtNative;->access$1300()Lorg/qtproject/qt/android/QtActivityDelegate;
+
+    move-result-object v0
+
+    if-eqz v0, :cond_0
+
+    .line 984
+    invoke-static {}, Lorg/qtproject/qt/android/QtNative;->access$1300()Lorg/qtproject/qt/android/QtActivityDelegate;
+
+    move-result-object v0
+
+    iget v1, p0, Lorg/qtproject/qt/android/QtNative$16;->val$viewId:I
+
+    iget v2, p0, Lorg/qtproject/qt/android/QtNative$16;->val$parentId:I
+
+    invoke-virtual {v0, v1, v2}, Lorg/qtproject/qt/android/QtActivityDelegate;->notifyObjectHide(II)V
+
+    :cond_0
+    return-void
+.end method

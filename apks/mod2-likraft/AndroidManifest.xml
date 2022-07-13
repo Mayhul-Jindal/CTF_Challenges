@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="29" android:compileSdkVersionCodename="10.0.0" android:installLocation="auto" package="com.likraft.bms" platformBuildVersionCode="29" platformBuildVersionName="10.0.0">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION"/>
+    <uses-permission android:maxSdkVersion="30" android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADVERTISE"/>
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="true"/>
+    <supports-screens android:anyDensity="true" android:largeScreens="true" android:normalScreens="true" android:smallScreens="true"/>
+    <application android:extractNativeLibs="true" android:hardwareAccelerated="true" android:icon="@drawable/icon" android:label="KOMAKI" android:name="org.qtproject.qt.android.bindings.QtApplication">
+        <activity android:configChanges="density|fontScale|keyboard|keyboardHidden|layoutDirection|locale|mcc|mnc|navigation|orientation|screenLayout|screenSize|smallestScreenSize|uiMode" android:exported="true" android:label="KOMAKI" android:launchMode="singleTop" android:name="com.smartsoft.ble.MainActivity" android:screenOrientation="unspecified" android:theme="@style/splashScreenTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+            <meta-data android:name="android.app.lib_name" android:value="likraft"/>
+            <meta-data android:name="android.app.repository" android:value="default"/>
+            <meta-data android:name="android.app.qt_libs_resource_id" android:resource="@array/qt_libs"/>
+            <meta-data android:name="android.app.bundled_libs_resource_id" android:resource="@array/bundled_libs"/>
+            <meta-data android:name="android.app.bundle_local_qt_libs" android:value="-- %%BUNDLE_LOCAL_QT_LIBS%% --"/>
+            <meta-data android:name="android.app.bundled_in_lib_resource_id" android:resource="@array/bundled_in_lib"/>
+            <meta-data android:name="android.app.bundled_in_assets_resource_id" android:resource="@array/bundled_in_assets"/>
+            <meta-data android:name="android.app.use_local_qt_libs" android:value="-- %%USE_LOCAL_QT_LIBS%% --"/>
+            <meta-data android:name="android.app.libs_prefix" android:value="/data/local/tmp/qt/"/>
+            <meta-data android:name="android.app.load_local_libs_resource_id" android:resource="@array/load_local_libs"/>
+            <meta-data android:name="android.app.load_local_libs" android:value="-- %%INSERT_LOCAL_LIBS%% --"/>
+            <meta-data android:name="android.app.load_local_jars" android:value="-- %%INSERT_LOCAL_JARS%% --"/>
+            <meta-data android:name="android.app.static_init_classes" android:value="-- %%INSERT_INIT_CLASSES%% --"/>
+            <meta-data android:name="android.app.background_running" android:value="true"/>
+            <meta-data android:name="android.app.auto_screen_scale_factor" android:value="false"/>
+            <meta-data android:name="android.app.extract_android_style" android:value="minimal"/>
+            <meta-data android:name="android.app.splash_screen_drawable" android:resource="@drawable/splashscreen"/>
+            <meta-data android:name="android.app.splash_screen_drawable_portrait" android:resource="@drawable/splashscreen_port"/>
+            <meta-data android:name="android.app.splash_screen_drawable_landscape" android:resource="@drawable/splashscreen_land"/>
+            <meta-data android:name="android.app.splash_screen_sticky" android:value="true"/>
+        </activity>
+        <service android:name="com.smartsoft.ble.BleService">
+            <meta-data android:name="android.app.lib_name" android:value="likraft"/>
+        </service>
+    </application>
+</manifest>

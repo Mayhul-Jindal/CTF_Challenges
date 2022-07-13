@@ -1,0 +1,313 @@
+Manifest-Version: 1.0
+Created-By: 11.0.15 (Private Build)
+
+Name: lib/armeabi-v7a/libprotocore.so
+SHA1-Digest: XTiiK4baFTjxXylwGmOjCR3s8nY=
+
+Name: lib/armeabi-v7a/libQt6OpenGL_armeabi-v7a.so
+SHA1-Digest: 9Zn8nlz6p0arqVDY+1hf3EpyM3c=
+
+Name: lib/armeabi-v7a/liblikraft_armeabi-v7a.so
+SHA1-Digest: Rj0lFwYt+7NGI0FsRuWrT5X6Dyg=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Material_qtquickcontrols2m
+ aterialstyleplugin_armeabi-v7a.so
+SHA1-Digest: g8qxppuGA3gCxsGdZFTapUgt9bw=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: oJKlZVwhkH2xNqhYxROg053DLqU=
+
+Name: lib/armeabi-v7a/libQt6Multimedia_armeabi-v7a.so
+SHA1-Digest: xK7SZEaoxTYuk7m/Vko00fQD7bY=
+
+Name: lib/armeabi-v7a/libqml_QtQml_qmlplugin_armeabi-v7a.so
+SHA1-Digest: bhg3AaEq45HQrcw2w3RajUEq0Is=
+
+Name: lib/armeabi-v7a/libqml_QtQml_Models_modelsplugin_armeabi-v7a.so
+SHA1-Digest: HFxS09iHYeFZ8D3A+4V051qjnE0=
+
+Name: lib/armeabi-v7a/libplugins_networkinformation_qandroidnetworkinfor
+ mation_armeabi-v7a.so
+SHA1-Digest: x4aMzQVMbO68S8rxNAdg67rAwKw=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_qtquickcontrols2plugin_arm
+ eabi-v7a.so
+SHA1-Digest: Xpy97dW1bDVcMgBXhuShw8SvTkc=
+
+Name: lib/armeabi-v7a/libqml_QtQml_WorkerScript_workerscriptplugin_armea
+ bi-v7a.so
+SHA1-Digest: PoqI/fWAApy7CHHvz0Af2RlmFDc=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qgif_armeabi-v7a.so
+SHA1-Digest: JvpJKWLzGsz+2fs0ObWvr2cD1m0=
+
+Name: assets/android_rcc_bundle.rcc
+SHA1-Digest: 71HrDxgSJlz0d0FtXttYcEbmrak=
+
+Name: res/drawable-mdpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Universal_qtquickcontrols2
+ universalstyleplugin_armeabi-v7a.so
+SHA1-Digest: VjlRlhAX9EU3ChGnmheT55AwL1E=
+
+Name: res/drawable-xhdpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libprotoqml.so
+SHA1-Digest: lHXxwcZObNNz6EHSWLxjCBkqESg=
+
+Name: res/drawable-ldpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: res/drawable-ldpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: res/drawable-hdpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libplugins_tls_qopensslbackend_armeabi-v7a.so
+SHA1-Digest: uDmQpK0XxVDh2SXlolSinWdFhQ0=
+
+Name: res/drawable-xxhdpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Fusion_qtquickcontrols2fus
+ ionstyleplugin_armeabi-v7a.so
+SHA1-Digest: GCQoEIvYDAJZd8zWmqP9ciOiWds=
+
+Name: res/drawable-hdpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Material_impl_qtquickcontr
+ ols2materialstyleimplplugin_armeabi-v7a.so
+SHA1-Digest: r01V+AUIxlA4q9JMhEDQoiD7Tlc=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qwebp_armeabi-v7a.so
+SHA1-Digest: cItePtxCfQxojvUWutQwpEsCdOg=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Layouts_qquicklayoutsplugin_armeabi
+ -v7a.so
+SHA1-Digest: Hty/cuU0P7QlWhmXgaJRu1R3Wto=
+
+Name: res/drawable-ldpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_debugger_armeabi-v7a.
+ so
+SHA1-Digest: B6AdUrVXJMCU4HKY4NUIgMtQNOs=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: yVtBfD8jPuNBnqzKCYmTGTE/4To=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_native_armeabi-v7a.so
+SHA1-Digest: 9hsltCrMgWcnsc6VEE05HzgVTa8=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_local_armeabi-v7a.so
+SHA1-Digest: q9GOTdpn5nhhctzXMktjTz89o44=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: EliuhYdBv9rhLA9wXGqfXYrQ/Fw=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_nativedebugger_armeab
+ i-v7a.so
+SHA1-Digest: QO098YKkxw3DJyFF5JYlWaAcJCM=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_server_armeabi-v7a.so
+SHA1-Digest: ifq0rXGgevbsMICMS8BkkWdz+OI=
+
+Name: res/drawable/splashscreen_land.xml
+SHA1-Digest: O7JVurNSzoN9c3CRvqTb081YA8U=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_impl_qtquickcontrols2implp
+ lugin_armeabi-v7a.so
+SHA1-Digest: +9xTg+/MEPG0sPHfORotToVRdz8=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_inspector_armeabi-v7a
+ .so
+SHA1-Digest: HG5KuOMe7CfLsfjRPWSCLLvuXP8=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qtga_armeabi-v7a.so
+SHA1-Digest: vvzf9fEI9lQO4IC91RCN0EpBWrw=
+
+Name: res/drawable-xhdpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libQt6QuickLayouts_armeabi-v7a.so
+SHA1-Digest: yjOFqss/0hx5/m3an+n565Imk5Q=
+
+Name: res/drawable/splashscreen.xml
+SHA1-Digest: BXd4uBWBpB4f2OTmsmGC654wYW4=
+
+Name: lib/armeabi-v7a/libQt6Core_armeabi-v7a.so
+SHA1-Digest: +rA3i+PsDKBsVioQXd4FGcfWXow=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Fusion_impl_qtquickcontrol
+ s2fusionstyleimplplugin_armeabi-v7a.so
+SHA1-Digest: yDMEQcZqPfTw8ljSxV4VqsNYI5A=
+
+Name: lib/armeabi-v7a/libplugins_tls_qcertonlybackend_armeabi-v7a.so
+SHA1-Digest: lyfzWO+v3x8XcHVCBQWl9icfhOc=
+
+Name: resources.arsc
+SHA1-Digest: hLYuKywP4sQ19uqoTMJV7c50g2s=
+
+Name: res/drawable-xxxhdpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libQt6Gui_armeabi-v7a.so
+SHA1-Digest: x9E+opL+NRfju6NbmD+MslWpRJw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: ZVxwB45cO/6v6vDI+kPoSxs2SuE=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: q0VGFtnjtMo3PHdsjsBKpK6r8h8=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: u/hPw0SU4W3SuI+nJ3Lak8CKcKk=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Imagine_qtquickcontrols2im
+ aginestyleplugin_armeabi-v7a.so
+SHA1-Digest: 3icYdMaBHnah13qzv/usf1qbJqw=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Basic_impl_qtquickcontrols
+ 2basicstyleimplplugin_armeabi-v7a.so
+SHA1-Digest: YXzxOnhhqPl5N+w3Td6M45Wywns=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Templates_qtquicktemplates2plugin_a
+ rmeabi-v7a.so
+SHA1-Digest: R452dlF0D/8UY8c7B9NNko5kg44=
+
+Name: lib/armeabi-v7a/libQt6Quick_armeabi-v7a.so
+SHA1-Digest: UZaHbIXAW0JEwvv13WkfwzAq6yM=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qico_armeabi-v7a.so
+SHA1-Digest: qk/dbMsdUiazODgGiQh2zn2YOEw=
+
+Name: lib/armeabi-v7a/libQt6QuickControls2_armeabi-v7a.so
+SHA1-Digest: 1Quq4v+2EteJ1GFe1zGbggOtOIg=
+
+Name: res/layout/splash.xml
+SHA1-Digest: b7/Wzk3f9Zeww+sBzR02pGaasKI=
+
+Name: lib/armeabi-v7a/libplugins_platforms_qtforandroid_armeabi-v7a.so
+SHA1-Digest: FsAcRHeQQC/rxf6SIFGvh0osKck=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qicns_armeabi-v7a.so
+SHA1-Digest: aF/x2KUXbfQyxCKVTXF5bYqUil0=
+
+Name: lib/armeabi-v7a/libQt6Concurrent_armeabi-v7a.so
+SHA1-Digest: tFhDc3z+bnLuGKY89csSRx5IbgM=
+
+Name: lib/armeabi-v7a/libQt6QuickTemplates2_armeabi-v7a.so
+SHA1-Digest: wy5yWhq5fLzMjgyYfvNqj5vpaso=
+
+Name: res/drawable/splashscreen_port.xml
+SHA1-Digest: bNAmRxn5wqYXMwXflgEdrMcuHb0=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Basic_qtquickcontrols2basi
+ cstyleplugin_armeabi-v7a.so
+SHA1-Digest: YjKF//MkjczlFvBhn3xYTMC/rss=
+
+Name: lib/armeabi-v7a/libQt6QuickShapes_armeabi-v7a.so
+SHA1-Digest: z5pt4hv3CGB/OKkD9fMJcPH4B1k=
+
+Name: res/drawable/splash.png
+SHA1-Digest: GesVb3jx9vWZ0gMupdc16G5ozGA=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_profiler_armeabi-v7a.
+ so
+SHA1-Digest: L3X7sAatVcE0FZkKI6UIGuK9RVk=
+
+Name: res/drawable-xxxhdpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qjpeg_armeabi-v7a.so
+SHA1-Digest: GAsqkVaObRNHbxxZtpoAVFd0Iqo=
+
+Name: lib/armeabi-v7a/libQt6Network_armeabi-v7a.so
+SHA1-Digest: EwijNn/rWHpxxoOL/ONspPKVpGE=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_qtquick2plugin_armeabi-v7a.so
+SHA1-Digest: JJsQB7TL5wv7YBHUgoAYEa0HuVA=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_tcp_armeabi-v7a.so
+SHA1-Digest: 9ZjEBpmh/ekL6Qh2Mr+URLolu18=
+
+Name: lib/armeabi-v7a/libQt6QmlWorkerScript_armeabi-v7a.so
+SHA1-Digest: 3ffYpml8L7XVefbemEqlr01sM8g=
+
+Name: res/drawable-xxhdpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libQt6QmlModels_armeabi-v7a.so
+SHA1-Digest: fnjRsHRJ75dYXGMll70NjatJe2Q=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_messages_armeabi-v7a.
+ so
+SHA1-Digest: 9VXbW5F/hxdMSbIMWL8n/xA0s9o=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: rLiPwowRaHIzPX0DZrn9R4A6ZSo=
+
+Name: res/drawable-xxhdpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_quickprofiler_armeabi
+ -v7a.so
+SHA1-Digest: Cp7uVkU/kyN+I6ows0ySr71ywxY=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Universal_impl_qtquickcont
+ rols2universalstyleimplplugin_armeabi-v7a.so
+SHA1-Digest: idAkRH5KeLcMNB4zgqFsCRoJ7Bg=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Controls_Imagine_impl_qtquickcontro
+ ls2imaginestyleimplplugin_armeabi-v7a.so
+SHA1-Digest: ORJ0ecYE1235EB3O4dbMQiEd8UY=
+
+Name: lib/armeabi-v7a/libplugins_qmltooling_qmldbg_preview_armeabi-v7a.s
+ o
+SHA1-Digest: /EuUlXMycLoc2oB4BIaAzbJJ/qc=
+
+Name: res/drawable-mdpi-v4/logo.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: res/drawable-xhdpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libQt6QuickControls2Impl_armeabi-v7a.so
+SHA1-Digest: 9uLuBmu9ibU1VKEOvsqrVG0zs4w=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Shapes_qmlshapesplugin_armeabi-v7a.
+ so
+SHA1-Digest: FUCYmMo4yrD2BCGVLMICfRM/Aic=
+
+Name: lib/armeabi-v7a/libQt6Qml_armeabi-v7a.so
+SHA1-Digest: dQYzwuXu4Q/v6kI73ko8tT6JD/8=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: gap7oC8VHH73rTmoF7ZYqGZVpLc=
+
+Name: res/drawable-hdpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qwbmp_armeabi-v7a.so
+SHA1-Digest: Evaob63VW25z5ZtHcoq/jShcvnA=
+
+Name: lib/armeabi-v7a/libqml_QtQuick_Window_quickwindowplugin_armeabi-v7
+ a.so
+SHA1-Digest: BsPrPrwc1wM5ISsQTpDJpciNavs=
+
+Name: lib/armeabi-v7a/libplugins_imageformats_qtiff_armeabi-v7a.so
+SHA1-Digest: ickmYf6fPmKIX9ekrLy6mPJPrZM=
+
+Name: classes.dex
+SHA1-Digest: fYVEuRcf6+XagYQq5LeQRuDc050=
+
+Name: res/drawable-xxxhdpi-v4/logo_port.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+
+Name: res/drawable-mdpi-v4/logo_land.png
+SHA1-Digest: hTA4CXfXGQtfhBM3MJ0OJMaU8rM=
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="bundled_in_assets" />
+    <array name="bundled_in_lib" />
+    <string-array name="bundled_libs">
+        <item>armeabi-v7a;protocore</item>
+        <item>armeabi-v7a;protoqml</item>
+    </string-array>
+    <string-array name="load_local_libs">
+        <item>armeabi-v7a;libplugins_platforms_qtforandroid_armeabi-v7a.so:libQt6MultimediaQuick_armeabi-v7a.so</item>
+    </string-array>
+    <string-array name="qt_libs">
+        <item>armeabi-v7a;c++_shared</item>
+        <item>armeabi-v7a;Qt6Core_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Concurrent_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Gui_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Network_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Multimedia_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6OpenGL_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Qml_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QmlModels_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6Quick_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickTemplates2_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickControls2_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickControls2Impl_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QmlWorkerScript_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickShapes_armeabi-v7a</item>
+        <item>armeabi-v7a;Qt6QuickLayouts_armeabi-v7a</item>
+    </string-array>
+</resources>
